@@ -11,7 +11,6 @@ cycler==0.10.0
 cython==0.29.10
 filelock==3.0.12
 git+https://github.com/hrsma2i/aiodl.git@91c3eeadc423f586c954ed3230251559afc82bb6#egg=aiodl
-git+https://github.com/hrsma2i/ml_json_processor.git@523068e39db5ad9ec109ba62424c43c4d7cd2d0d#egg=mljsp
 idna-ssl==1.1.0 ; python_version < '3.7'
 idna==2.8
 kiwisolver==1.1.0

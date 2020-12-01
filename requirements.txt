@@ -10,8 +10,7 @@ chardet==3.0.4
 cycler==0.10.0
 cython==0.29.10
 filelock==3.0.12
-git+https://github.com/hrsma2i/aiodl.git@91c3eeadc423f586c954ed3230251559afc82bb6#egg=aiodl
-git+https://github.com/hrsma2i/ml_json_processor.git@523068e39db5ad9ec109ba62424c43c4d7cd2d0d#egg=mljsp
+git+https://github.com/hrsma2i/aiodl.git@91c3eeadc423f586c954ed3230251559afc82bb6#egg=samplecli
 idna-ssl==1.1.0 ; python_version < '3.7'
 idna==2.8
 kiwisolver==1.1.0
@@ -28,7 +27,7 @@ pytz==2019.1
 requests==2.22.0
 six==1.12.0
 soupsieve==1.9.2
-tqdm==4.32.2
+tqdm==4.32.1
 typing-extensions==3.6.6 ; python_version < '3.7'
 typing==3.6.6
 urllib3==1.25.3
